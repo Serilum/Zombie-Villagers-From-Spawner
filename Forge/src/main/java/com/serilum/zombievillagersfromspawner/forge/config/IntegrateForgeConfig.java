@@ -1,7 +1,7 @@
-package com.natamus.zombievillagersfromspawner.forge.config;
+package com.serilum.zombievillagersfromspawner.forge.config;
 
 import com.natamus.collective.config.DuskConfig;
-import com.natamus.zombievillagersfromspawner.util.Reference;
+import com.serilum.zombievillagersfromspawner.util.Reference;
 import net.minecraftforge.client.ConfigScreenHandler;
 import net.minecraftforge.fml.ModLoadingContext;
 
