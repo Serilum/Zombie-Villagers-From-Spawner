@@ -1,7 +1,7 @@
-package com.natamus.zombievillagersfromspawner;
+package com.serilum.zombievillagersfromspawner;
 
 import com.natamus.collective.objects.SAMObject;
-import com.natamus.zombievillagersfromspawner.config.ConfigHandler;
+import com.serilum.zombievillagersfromspawner.config.ConfigHandler;
 import net.minecraft.world.entity.EntityTypes;
 
 public class ModCommon {

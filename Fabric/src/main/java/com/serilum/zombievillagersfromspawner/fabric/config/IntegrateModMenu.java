@@ -1,7 +1,7 @@
-package com.natamus.zombievillagersfromspawner.fabric.config;
+package com.serilum.zombievillagersfromspawner.fabric.config;
 
 import com.natamus.collective.config.DuskConfig;
-import com.natamus.zombievillagersfromspawner.util.Reference;
+import com.serilum.zombievillagersfromspawner.util.Reference;
 import com.terraformersmc.modmenu.api.ConfigScreenFactory;
 import com.terraformersmc.modmenu.api.ModMenuApi;
 
