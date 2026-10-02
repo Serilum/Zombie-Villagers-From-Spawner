@@ -1,9 +1,9 @@
-package com.natamus.zombievillagersfromspawner;
+package com.serilum.zombievillagersfromspawner;
 
 import com.natamus.collective.check.RegisterMod;
 import com.natamus.collective.check.ShouldLoadCheck;
-import com.natamus.zombievillagersfromspawner.forge.config.IntegrateForgeConfig;
-import com.natamus.zombievillagersfromspawner.util.Reference;
+import com.serilum.zombievillagersfromspawner.forge.config.IntegrateForgeConfig;
+import com.serilum.zombievillagersfromspawner.util.Reference;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.fml.ModLoadingContext;
 import net.minecraftforge.fml.common.Mod;
