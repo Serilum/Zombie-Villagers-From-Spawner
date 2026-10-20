@@ -6,7 +6,7 @@ logoFile="icon.png"
 
 [[mods]]
 modId="zombievillagersfromspawner"
-version="4.1"
+version="4.2"
 displayName="Zombie Villagers From Spawner"
 displayURL="https://serilum.com/mod/zombie-villagers-from-spawner"
 authors="Serilum"
@@ -22,7 +22,7 @@ If you would like to contribute too, check out https://serilum.com/donate Apprec
 [[dependencies.zombievillagersfromspawner]]
     modId="collective"
     type="required"
-    versionRange="[8.57,)"
+    versionRange="[8.59,)"
     ordering="NONE"
     side="BOTH"
 
